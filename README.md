@@ -24,12 +24,3 @@ Our algorithm uses a **Dynamic Synonym Replacement Engine**. It scans the text f
 ### Option 1: Use Live (Recommended)
 Simply visit our official website:  
 👉 **(https://orbitwebtools.github.io/Free-Unlimited-Humanize-AI-Text-Bypass-Turnitin-2025/)**
-
-### Option 2: Run Locally
-If you are a developer and want to run this offline:
-
-1. Clone the repository:
-   ```bash
-   git clone [
-https://github.com/OrbitWebTools/humanize-ai-text.git -> https://github.com/OrbitWebTools/Free-Unlimited-Humanize-AI-Text-Bypass-Turnitin-2025.git
-   
